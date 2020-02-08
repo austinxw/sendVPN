@@ -2,7 +2,9 @@
 SEnD, a social-based VPN service
 
 For more information, please visit:
+
 http://www.sendvpn.net/
+
 https://ipop-project.org/
 
 References:
